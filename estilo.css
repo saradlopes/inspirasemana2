@@ -1,0 +1,27 @@
+html, body {
+    margin: 10px;
+    background-image: url("fundo.avif") ; 
+    height: auto;
+    text-align: center;
+    padding-top: 5%;
+    
+}
+#titulo{
+    text-align: center;
+    color: palevioletred;
+}
+#subtitulo{
+    text-align: center;
+    color: rgb(85, 84, 84);
+}
+#texto  {
+    text-align: center;
+    color: rgb(145, 141, 141);
+}
+#botao {
+    border: rgb(226, 9, 82);
+    color:black;    
+    padding:20px 10px 20px 10px;
+}
+
+
