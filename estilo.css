@@ -1,27 +1,46 @@
 html, body {
-    margin: 10px;
-    background-image: url("fundo.avif") ; 
-    height: auto;
+    margin: 0%;
+    background-image: url("img/fundo.avif"); 
+    background-size: 100%;
+    background-repeat: no-repeat;
     text-align: center;
-    padding-top: 5%;
-    
+}
+#fundo{
+    text-align: center;
+   
 }
 #titulo{
     text-align: center;
     color: palevioletred;
+    padding-top:5%;
+    font-size: 70px;
 }
 #subtitulo{
     text-align: center;
-    color: rgb(85, 84, 84);
+    color: rgb(114, 112, 112);
+    padding-left: 20%;
+    padding-right: 20%;
 }
-#texto  {
+#texto{
     text-align: center;
-    color: rgb(145, 141, 141);
+    color: rgb(7, 7, 7);
 }
-#botao {
-    border: rgb(226, 9, 82);
-    color:black;    
+#link{
+    border: rgb(10, 10, 10);
+    color:rgb(82, 79, 79);    
     padding:20px 10px 20px 10px;
+
+}
+#video{
+   
+}
+.pontos{
+text-align: center;
+
 }
 
+#icones{
+width: 5px;
+
+}
 
